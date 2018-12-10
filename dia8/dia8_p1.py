@@ -8,7 +8,7 @@ def sumaMetas(datos):
 	while numHijos > 0:
 		res += sumaMetas(datos)
 		numHijos -= 1
-
+	# Suma los metas
 	while numMetas > 0:
 		res += int(datos.pop(0))
 		numMetas -= 1
