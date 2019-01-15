@@ -1,4 +1,4 @@
-# Advent Of Code: Dia 25 - Primera parte
+# Advent Of Code: Dia 25
 
 import networkx as nx
 from ast import literal_eval
