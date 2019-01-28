@@ -282,9 +282,9 @@ Here are a few example summarized combats:
     Goblins win with 937 total hit points left
     Outcome: 20 * 937 = 18740
 
-# What is the outcome of the combat described in your puzzle input?
+**What is the outcome of the combat described in your puzzle input?**
 
-#--- Part Two ---
+# --- Part Two ---
 
 According to your calculations, the Elves are going to lose badly. Surely, you won't mess up the timeline too much if you give them just a little advanced technology, right?
 
