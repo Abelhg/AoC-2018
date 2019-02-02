@@ -146,8 +146,7 @@ while len(GOTAS_GEN) != 0:
 
 	
 	# Control de vista
-	
-	while True:
+        while True:
 		os.system("clear")
 		imprimeMapa(MAPA, vistaX - MINX, vistaY, dimX, dimY)
 		cmd = raw_input()
